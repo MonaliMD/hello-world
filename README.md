@@ -1,4 +1,6 @@
 # hello-world
 
-Hi I'am monali.
-I am getting familier with git
+Hi I'am M M Wij.
+I am getting familier with git.
+just doing coding
+
